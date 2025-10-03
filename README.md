@@ -3,7 +3,7 @@
 Python project that analyzes Reddit discussions about the TikTok ban in the USA and the growing interest in Xiaohongshu.  
 The project combines **data collection via Reddit API**, **network analysis with NetworkX**, and **sentiment analysis using NLP (VADER)** to study user interactions, communities, and sentiment expressed in online debates.
 
-I dedicated a lot of time and effort to this project because I really enjoyed working on it. It introduced me to social network analysis and natural language processing. The work was done entirely without using generative AI tools and was quite challenging for me, as I don't have echnical writing skills.
+I dedicated a lot of time and effort to this project because I really enjoyed working on it. It introduced me to social network analysis and natural language processing. The work was done entirely without using generative AI tools and was quite challenging for me, as I don't have technical writing skills.
 
 ---
 
